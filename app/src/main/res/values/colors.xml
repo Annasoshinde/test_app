@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000046</color>
+    <color name="colorPrimaryDark">#000046</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="tooltip_background_light">#e6ffffff</color>
+    <color name="success_stroke_color">#A5DC86</color>
+    <color name="trans_success_stroke_color">#33A5DC86</color>
+    <color name="warning_stroke_color">#F8BB86</color>
+    <color name="sweet_dialog_bg_color">#ffffff</color>
+    <color name="sweet_dialog_bg_color_dark">#e6222222</color>
+    <color name="Honeydew">#F0FFF0</color>
+</resources>
